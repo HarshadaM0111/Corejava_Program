@@ -1,6 +1,6 @@
 package Package_Java;
 
-/* Write a java program to check given number is perfect number or not  */
+/* Write a java program to check given number is prime number or not  */
 
 import java.util.Scanner;
 public class Prime_Number {
